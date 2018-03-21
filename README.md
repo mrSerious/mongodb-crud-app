@@ -10,7 +10,7 @@ Basic Message App Demo demonstrating React's basic concepts.
 ## How to install and run
 ```bash
 git clone https://github.com/mrSerious/mongodb-crud-app.git
-cd message-app
+cd mongodb-crud-app
 npm install
 npm run start
 ```
