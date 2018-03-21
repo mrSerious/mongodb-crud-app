@@ -1,7 +1,4 @@
 # mongodb-crud-app
-## Introduction
-Basic Message App Demo demonstrating React's basic concepts.
-
 ## Dependencies
   - Node
   - Express
